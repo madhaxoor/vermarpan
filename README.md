@@ -1,53 +1,136 @@
-## Hi there 👋
+> _“The sun will rise tomorrow — it always does. So keep building, keep dreaming.”_
 
-<!--
-**vermarpan/vermarpan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hey, I'm Arpan Verma — Creating Code, Crafting Experiences ⚡  
+Welcome to my GitHub — the digital arena where I innovate, build brands, and turn ideas into impact 🚀
 
-Here are some ideas to get you started:
+I'm a multi-dimensional **Software Engineer**, **Full-Stack Web Developer**, and **Creative Designer** — obsessed with building intelligent solutions, powerful user experiences, and visually striking products. Whether it's engineering robust backends, designing beautiful frontends, launching startup ideas, or leading communities — I do it all with precision, passion, and purpose.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...<h1 align="center">Hi 👋, I'm Arpan Verma</h1>
-<h3 align="center">🚀 Full-Stack Developer | Code Craftsman | Digital Visionary from India ☕</h3>
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=madhaxoor&label=Profile%20views&color=0e75b6&style=flat" alt="madhaxoor" /> </p>
+## 🧩 About Me
+- 🎓 Final Year B.Tech IT Student  
+- 🛠️ Diploma in Mechanical Engineering – JLN Polytechnic, Mahmoodabad  
+- 💻 Passionate Software Engineer & Full-Stack Web Developer  
+- 💡 Founder – **TechNest** (Internship & Learning Platform)  
+- 🎨 Co-founder – **Edit Ninja** (Creative Design Hub)  
+- 🎬 Creator – **Aster Movies**, a unique personal movie theater concept  
+- 🚀 Core Team Member – **Galouti Nawabs**, EDC IIT Bombay  
+- 🧠 Strong in DSA, Web Dev, Project Management, and Design Thinking  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madhaxoor" alt="madhaxoor" /></a> </p>
+---
 
-- 🔭 I’m currently working on **JobFinder-India**
+## ✨ Highlights & Achievements
+- 🌐 Portfolio Website: [arpxxnportfolio.netlify.app](https://arpxxnportfolio.netlify.app)  
+- 🔧 Built **JobFinder India** – Full-stack job portal (Java, Flask, SQL)    
+- 📊 Developed **Women Safety Analytics Dashboard** with real-time email alert system  
+- 🧠 Created a modular **Smart Job Portal** – clean backend/frontend structure  
+- 🥈 **2nd Place** in **Coders War 3.0** – Fast-paced competitive programming challenge  
+- 📄 Built a clean, professional, **ATS-optimized Resume**  
+- 🖥️ Customized a premium **Full-Stack Portfolio Template** (React + Tailwind)  
 
-- 🌱 I’m currently learning **Spring Boot, Microservices, R Programming, System Design**
+---
 
-- 👯 I’m looking to collaborate on **Open-source full-stack projects**
+## 🎓 Content Creator @ EDC IIT Bombay  
+Managing themed weekly series:  
+- 📅 **Meme Monday**  
+- 👩‍💼 **Women in Entrepreneurship Tuesday**  
+- 📘 **Entrepreneurship Wisdom Wednesday**  
+- 🛠 **Startup BTS Thursday**  
+- 📸 **Throwback Friday**  
+- 💡 **Startup Ideas Saturday**
 
-- 🤝 I’m looking for help with **Scalable backend systems**
+---
 
-- 👨‍💻 All of my projects are available at [arpxxnportfolio.netlify.app](arpxxnportfolio.netlify.app)
+## 🎨 UI/UX & Branding Experience  
+- Tools: **Canva**, **Figma**, **Adobe Photoshop**, **Google Sites**
 
-- 💬 Ask me about **Java, Flask, Frontend UI/UX, Python, MySQL**
+---
 
-- 📫 How to reach me **officialarpan@outlook.com**
+## 🎯 Currently Mastering  
+- React  
+- Node.js  
+- API Integration  
+- MongoDB  
+- Advanced Backend Development  
 
-- ⚡ Fun fact **I need coffee every hour, dark mode is my default personality, and I debug better at 2 AM than during daylight.**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/arpan-verma-1905972a7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arpan-verma-1905972a7" height="30" width="40" /></a>
-<a href="https://instagram.com/arpanwithak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arpanwithak" height="30" width="40" /></a>
-</p>
+## 🛠 Skills & Tools
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+### 💻 Programming Languages  
+`Java` • `Python` • `C` • `HTML5` • `CSS3` • `JavaScript` • `SQL` • `Swift (Basics)`
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=madhaxoor&show_icons=true&locale=en&layout=compact" alt="madhaxoor" /></p>
+### 🌐 Web & Database Technologies  
+- **Frontend:** React (Learning) • Bootstrap • Tailwind CSS  
+- **Backend:** Flask (Python) • Node.js (Basics)  
+- **Database:** MySQL • MongoDB  
+- **APIs & Authentication:** REST APIs • JWT Auth
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madhaxoor&show_icons=true&locale=en" alt="madhaxoor" /></p>
+### 🎨 Design & Developer Tools  
+- Canva • Figma • Adobe Photoshop • Google Sites  
+- Visual Studio Code • Git & GitHub • Netlify • MS Office Suite
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madhaxoor&" alt="madhaxoor" /></p>
+### 🧠 Core Computer Science Concepts  
+- Data Structures & Algorithms (DSA)  
+- Object-Oriented Programming (OOP)  
+- Database Management Systems (DBMS)  
+- Operating Systems (OS)  
+- Software Engineering Principles  
+- Computer Networks  
+- Project Planning & Management
 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💬 Soft Skills  
+- Public Speaking • Leadership & Team Management  
+- Community Engagement • Technical Documentation  
+- Creative Problem Solving • Initiative & Ownership
+
+---
+
+
+## 🚀 Projects in Focus
+
+### 🔎 JobFinder India  
+A full-stack job portal built using **Java**, **Flask**, and **SQL**.  
+Features: Secure login, dynamic job listings, recruiter/user dashboards.
+
+### 🛡 Women Safety Analytics Dashboard  
+Web dashboard using **HTML**, **CSS**, and **Flask** for real-time safety alerts and data visualizations.
+
+### 🌐 Portfolio Website  
+Personal developer portfolio using **React + Tailwind**, highlighting projects, skills, and education.
+
+### 📄 Smart Resume  
+ATS-friendly resume with keyword optimization, clean formatting, and strong visual appeal.
+
+---
+
+## 📚 Academic & Content Initiatives
+
+### 🧾 Weekly EDC Series Manager  
+Curating consistent content for:
+- Meme Monday  
+- Women in Entrepreneurship Tuesday  
+- Entrepreneurship Wisdom Wednesday  
+- Startup BTS Thursday  
+- Throwback Friday  
+- Startup Ideas Saturday  
+
+---
+
+## 📫 Let’s Connect!
+📧 [Email](mailto:officialarpan@outlook.com)  
+🌐 [LinkedIn](https://www.linkedin.com)  
+💻 [GitHub](https://github.com/madhaxoor)  
+📱 [WhatsApp](https://wa.me/8009180031)  
+🌐 [Portfolio Website](https://arpxxnportfolio.netlify.app)
+
+---
+
+> _"Build with intent. Design with purpose. Lead with passion."_  
+> _“Chhoti chhoti cheezon ka dhyan rakhoge, toh bade kaam apne aap honge.”_
+
+---
+
+Thanks for scrolling all the way down! 😄  
+If something here impressed you (or mildly amused you), drop a ⭐, shoot a DM, or send a carrier pigeon 🕊  
+I'm always open to **collaborations**, **internships**, or **mind-blowing ideas** that could change the game 🚀
