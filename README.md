@@ -1,6 +1,6 @@
 > _“The sun will rise tomorrow — it always does. So keep building, keep dreaming.”_
 
-# 👋 Hey, I'm Arpan Verma — Creating Code, Crafting Experiences ⚡  
+# 👋 Hey, I'm Arpan Verma — Creating Code, Crafting Experiences⚡  
 Welcome to my GitHub — the digital arena where I innovate, build brands, and turn ideas into impact 🚀
 
 I'm a multi-dimensional **Software Engineer**, **Full-Stack Web Developer**, and **Creative Designer** — obsessed with building intelligent solutions, powerful user experiences, and visually striking products. Whether it's engineering robust backends, designing beautiful frontends, launching startup ideas, or leading communities — I do it all with precision, passion, and purpose.
